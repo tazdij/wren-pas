@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="hello_wren.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="34"/>
+        <CursorPos X="19" Y="52"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\lib\wren.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="14" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="275"/>
+        <CursorPos X="46" Y="279"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="473" Column="67" TopLine="444"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="520" Column="75" TopLine="491"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="285" Column="18" TopLine="274"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="26" TopLine="8"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="120" Column="25" TopLine="102"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="128" Column="60" TopLine="108"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="26" TopLine="8"/>
+      </Position7>
+      <Position8>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="18" Column="33" TopLine="8"/>
+      </Position8>
+      <Position9>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="147" TopLine="129"/>
+      </Position9>
+      <Position10>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="335" Column="57" TopLine="317"/>
+      </Position10>
+      <Position11>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="359" Column="61" TopLine="341"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="430" Column="61" TopLine="412"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="443" Column="79" TopLine="425"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="465" Column="58" TopLine="447"/>
+      </Position14>
+      <Position15>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="471" Column="57" TopLine="453"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="474" Column="68" TopLine="456"/>
+      </Position16>
+      <Position17>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="542" Column="87" TopLine="524"/>
+      </Position17>
+      <Position18>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="568" Column="73" TopLine="550"/>
+      </Position18>
+      <Position19>
+        <Filename Value="hello_wren.lpr"/>
+        <Caret Line="24" Column="13"/>
+      </Position19>
+      <Position20>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="287" Column="25" TopLine="269"/>
+      </Position20>
+      <Position21>
+        <Filename Value="hello_wren.lpr"/>
+        <Caret Line="69" Column="18" TopLine="38"/>
+      </Position21>
+      <Position22>
+        <Filename Value="hello_wren.lpr"/>
+        <Caret Line="52" Column="45" TopLine="34"/>
+      </Position22>
+      <Position23>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="132" Column="99" TopLine="119"/>
+      </Position23>
+      <Position24>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="572" Column="59" TopLine="543"/>
+      </Position24>
+      <Position25>
+        <Filename Value="hello_wren.lpr"/>
+        <Caret Line="52" Column="31" TopLine="34"/>
+      </Position25>
+      <Position26>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="18" Column="5"/>
+      </Position26>
+      <Position27>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="329" Column="67" TopLine="306"/>
+      </Position27>
+      <Position28>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="335" Column="54" TopLine="306"/>
+      </Position28>
+      <Position29>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="18" Column="44"/>
+      </Position29>
+      <Position30>
+        <Filename Value="..\..\lib\cwren.pas"/>
+        <Caret Line="279" Column="46" TopLine="275"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
