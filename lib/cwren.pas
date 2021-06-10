@@ -20,6 +20,10 @@ Type
 {$IFDEF FPC}
 {$PACKRECORDS C}
 {$ENDIF}
+
+{$IFDEF LINUX}
+  size_t = Cardinal;
+{$ENDIF}
   { The Wren semantic version number components. }
 
 const
@@ -32,12 +36,11 @@ const
 
 
   cDllName = {$IFDEF WINDOWS}
-
-                     {$IFDEF DEBUG}
-                             {$IFDEF WIN64} 'libwren.dll' {$ELSE} 'libwren32-debug.dll' {$ENDIF}
-                     {$ELSE}
-                            {$IFDEF WIN64} 'libwren.dll' {$ELSE} 'libwren32.dll' {$ENDIF}
-                     {$ENDIF}
+               {$IFDEF DEBUG}
+                       {$IFDEF WIN64} 'libwren.dll' {$ELSE} 'libwren32-debug.dll' {$ENDIF}
+               {$ELSE}
+                      {$IFDEF WIN64} 'libwren.dll' {$ELSE} 'libwren32.dll' {$ENDIF}
+               {$ENDIF}
              {$IFEND}
              {$IFDEF DARWIN} 'libwren.dylib' {$IFEND}
              {$IFDEF LINUX} 'libwren.so' {$IFEND};
@@ -81,6 +84,7 @@ const
   { }
   { - To free memory, [memory] will be the memory to free and [newSize] will be }
   {   zero. It should return NULL. }
+
 
     WrenReallocateFn = function (memory:pointer; newSize:size_t; userData:pointer):pointer;cdecl;
   { A function callable from Wren code, but implemented in C. }
