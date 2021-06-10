@@ -8,8 +8,10 @@
       <Unit0>
         <Filename Value="hello_wren.lpr"/>
         <IsPartOfProject Value="True"/>
-        <CursorPos X="25" Y="19"/>
-        <UsageCount Value="20"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="19"/>
+        <CursorPos X="6" Y="37"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -17,16 +19,15 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="2"/>
         <CursorPos X="14" Y="5"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="..\..\lib\cwren.pas"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="40"/>
-        <CursorPos X="27" Y="46"/>
-        <UsageCount Value="10"/>
+        <TopLine Value="304"/>
+        <CursorPos X="27" Y="312"/>
+        <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit2>
     </Units>
